@@ -1,0 +1,25 @@
+/* CSS Document */
+
+body{background-color:#CCCCCC;
+      }
+#container{ background-color:white;
+            width:1000px;
+			height:600px;
+			}
+#header{ height:100px; background-color:#99CCFF;}
+#images{height:200px;}
+#content{height:150px;}
+#footer{background-color:#99CCFF;}
+a{ padding:20px;
+   color:black;
+   font-family:"Baskerville Old Face";
+   font-size:22px;
+   text-decoration:none;
+   text-shadow:1px 1px 0px white;
+   
+   }
+h1{ text-shadow:2px 0px 0px blue;
+     color:black;
+	 font-family:Georgia, "Times New Roman", Times, serif;
+	 }
+p{position:absolute; top:33px; right:150px;}
